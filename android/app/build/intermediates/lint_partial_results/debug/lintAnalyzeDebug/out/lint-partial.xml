@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.7.0" type="partial_results">
+    <map id="UnsafeIntentLaunch">
+            <map id="unprotected">
+                <entry
+                    name="com.lifeos.app.MainActivity"
+                    boolean="true"/>
+            </map>
+    </map>
+    <map id="UnusedResources">
+        <location id="R.mipmap.lifeos_logo_round"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/mipmap-hdpi/lifeos_logo_round.png"/>
+        <entry
+            name="model"
+            string="drawable[lifeos_logo_background(U),neurology_24px(U)],mipmap[lifeos_logo(U),lifeos_logo_foreground(U),lifeos_logo_round(D)],string[app_name(U)],style[Theme_LifeOS(U)];2^0^3,4^0^3;;;"/>
+    </map>
+
+</incidents>

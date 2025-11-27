@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "com.lifeos.app-release-68:/mipmap-xxhdpi_lifeos_logo.png.flat",
+        "source": "com.lifeos.app-main-69:/mipmap-xxhdpi/lifeos_logo.png"
+    },
+    {
+        "merged": "com.lifeos.app-release-68:/drawable_lifeos_logo_background.xml.flat",
+        "source": "com.lifeos.app-main-69:/drawable/lifeos_logo_background.xml"
+    },
+    {
+        "merged": "com.lifeos.app-release-68:/mipmap-mdpi_lifeos_logo.png.flat",
+        "source": "com.lifeos.app-main-69:/mipmap-mdpi/lifeos_logo.png"
+    },
+    {
+        "merged": "com.lifeos.app-release-68:/mipmap-hdpi_lifeos_logo_round.png.flat",
+        "source": "com.lifeos.app-main-69:/mipmap-hdpi/lifeos_logo_round.png"
+    },
+    {
+        "merged": "com.lifeos.app-release-68:/mipmap-anydpi-v26_lifeos_logo.xml.flat",
+        "source": "com.lifeos.app-main-69:/mipmap-anydpi-v26/lifeos_logo.xml"
+    },
+    {
+        "merged": "com.lifeos.app-release-68:/drawable-mdpi_neurology_24px.xml.flat",
+        "source": "com.lifeos.app-main-69:/drawable-mdpi/neurology_24px.xml"
+    },
+    {
+        "merged": "com.lifeos.app-release-68:/mipmap-xhdpi_lifeos_logo_round.png.flat",
+        "source": "com.lifeos.app-main-69:/mipmap-xhdpi/lifeos_logo_round.png"
+    },
+    {
+        "merged": "com.lifeos.app-release-68:/mipmap-xxxhdpi_lifeos_logo.png.flat",
+        "source": "com.lifeos.app-main-69:/mipmap-xxxhdpi/lifeos_logo.png"
+    },
+    {
+        "merged": "com.lifeos.app-release-68:/mipmap-xhdpi_lifeos_logo_foreground.png.flat",
+        "source": "com.lifeos.app-main-69:/mipmap-xhdpi/lifeos_logo_foreground.png"
+    },
+    {
+        "merged": "com.lifeos.app-release-68:/mipmap-mdpi_lifeos_logo_foreground.png.flat",
+        "source": "com.lifeos.app-main-69:/mipmap-mdpi/lifeos_logo_foreground.png"
+    },
+    {
+        "merged": "com.lifeos.app-release-68:/mipmap-xxxhdpi_lifeos_logo_round.png.flat",
+        "source": "com.lifeos.app-main-69:/mipmap-xxxhdpi/lifeos_logo_round.png"
+    },
+    {
+        "merged": "com.lifeos.app-release-68:/mipmap-mdpi_lifeos_logo_round.png.flat",
+        "source": "com.lifeos.app-main-69:/mipmap-mdpi/lifeos_logo_round.png"
+    },
+    {
+        "merged": "com.lifeos.app-release-68:/mipmap-anydpi-v26_lifeos_logo_round.xml.flat",
+        "source": "com.lifeos.app-main-69:/mipmap-anydpi-v26/lifeos_logo_round.xml"
+    },
+    {
+        "merged": "com.lifeos.app-release-68:/mipmap-xxxhdpi_lifeos_logo_foreground.png.flat",
+        "source": "com.lifeos.app-main-69:/mipmap-xxxhdpi/lifeos_logo_foreground.png"
+    },
+    {
+        "merged": "com.lifeos.app-release-68:/mipmap-xxhdpi_lifeos_logo_round.png.flat",
+        "source": "com.lifeos.app-main-69:/mipmap-xxhdpi/lifeos_logo_round.png"
+    },
+    {
+        "merged": "com.lifeos.app-release-68:/mipmap-xxhdpi_lifeos_logo_foreground.png.flat",
+        "source": "com.lifeos.app-main-69:/mipmap-xxhdpi/lifeos_logo_foreground.png"
+    },
+    {
+        "merged": "com.lifeos.app-release-68:/mipmap-xhdpi_lifeos_logo.png.flat",
+        "source": "com.lifeos.app-main-69:/mipmap-xhdpi/lifeos_logo.png"
+    },
+    {
+        "merged": "com.lifeos.app-release-68:/mipmap-hdpi_lifeos_logo_foreground.png.flat",
+        "source": "com.lifeos.app-main-69:/mipmap-hdpi/lifeos_logo_foreground.png"
+    },
+    {
+        "merged": "com.lifeos.app-release-68:/mipmap-hdpi_lifeos_logo.png.flat",
+        "source": "com.lifeos.app-main-69:/mipmap-hdpi/lifeos_logo.png"
+    }
+]

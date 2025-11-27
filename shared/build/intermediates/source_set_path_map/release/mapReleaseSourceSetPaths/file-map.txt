@@ -1,0 +1,15 @@
+com.lifeos.shared-sqlite-2.4.0-0 /Users/yeshua/.gradle/caches/8.9/transforms/8eec2a8cfe3f23220d5db6c79957cad6/transformed/sqlite-2.4.0/res
+com.lifeos.shared-room-ktx-2.6.1-1 /Users/yeshua/.gradle/caches/8.9/transforms/ad04e9516bba92019fcdcae5be0d1c15/transformed/room-ktx-2.6.1/res
+com.lifeos.shared-annotation-experimental-1.1.0-rc01-2 /Users/yeshua/.gradle/caches/8.9/transforms/b62b21d679b9fbef997abfea25278516/transformed/annotation-experimental-1.1.0-rc01/res
+com.lifeos.shared-core-runtime-2.2.0-3 /Users/yeshua/.gradle/caches/8.9/transforms/c050dcbf508a683c59d915e18b00974d/transformed/core-runtime-2.2.0/res
+com.lifeos.shared-room-runtime-2.6.1-4 /Users/yeshua/.gradle/caches/8.9/transforms/d521f2e94fca9c985a41087e3fb5b0c7/transformed/room-runtime-2.6.1/res
+com.lifeos.shared-sqlite-framework-2.4.0-5 /Users/yeshua/.gradle/caches/8.9/transforms/dd5356eac69475c03e5ba3315d74b8cf/transformed/sqlite-framework-2.4.0/res
+com.lifeos.shared-pngs-6 /Users/yeshua/personal-coding-projects/lifeos/shared/build/generated/res/pngs/release
+com.lifeos.shared-resValues-7 /Users/yeshua/personal-coding-projects/lifeos/shared/build/generated/res/resValues/release
+com.lifeos.shared-mergeReleaseResources-8 /Users/yeshua/personal-coding-projects/lifeos/shared/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.lifeos.shared-mergeReleaseResources-9 /Users/yeshua/personal-coding-projects/lifeos/shared/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.lifeos.shared-release-10 /Users/yeshua/personal-coding-projects/lifeos/shared/build/intermediates/merged_res/release/mergeReleaseResources
+com.lifeos.shared-androidMain-11 /Users/yeshua/personal-coding-projects/lifeos/shared/src/androidMain/res
+com.lifeos.shared-androidRelease-12 /Users/yeshua/personal-coding-projects/lifeos/shared/src/androidRelease/res
+com.lifeos.shared-main-13 /Users/yeshua/personal-coding-projects/lifeos/shared/src/main/res
+com.lifeos.shared-release-14 /Users/yeshua/personal-coding-projects/lifeos/shared/src/release/res

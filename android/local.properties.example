@@ -1,0 +1,11 @@
+# Copy this file to local.properties and fill in your values
+
+# Supabase Configuration
+SUPABASE_URL=https://your-project.supabase.co
+SUPABASE_ANON_KEY=your-anon-key
+
+# Gemini API Key
+GEMINI_API_KEY=your-gemini-api-key
+
+# Google OAuth Client ID (Web client ID from Firebase/Google Cloud Console)
+GOOGLE_WEB_CLIENT_ID=your-web-client-id.apps.googleusercontent.com

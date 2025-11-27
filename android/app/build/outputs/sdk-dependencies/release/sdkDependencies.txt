@@ -1,0 +1,3921 @@
+# List of SDK dependencies of this app, this information is also included in an encrypted form in the APK.
+# For more information visit: https://d.android.com/r/tools/dependency-metadata
+
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlin"
+    artifactId: "kotlin-stdlib"
+    version: "1.9.21"
+  }
+  digests {
+    sha256: ";G\223\023\253l\256\244\345\342]=\356\214\250\f0,\211\272s\341\257M\257\252\020\017n\371)j"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains"
+    artifactId: "annotations"
+    version: "23.0.0"
+  }
+  digests {
+    sha256: "{\017\031r@\202\313\374\274f\345\253\352+\233\311,\360\212\036\241\036\031\0313\355C\200\036\263\315\005"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlin"
+    artifactId: "kotlin-stdlib-common"
+    version: "1.9.21"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlin"
+    artifactId: "kotlin-stdlib-jdk7"
+    version: "1.9.10"
+  }
+  digests {
+    sha256: "\254ca\277\232\321\3558,!\003\331q,G\315\354\026b2\264\220>\325\226\350\207k\006\201\311\267"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlin"
+    artifactId: "kotlin-stdlib-jdk8"
+    version: "1.9.10"
+  }
+  digests {
+    sha256: "\244\307M\224\326L\341\253\3457`\376\003\211\335\224\037o\305X\320\332\263^G\300\205\241\036\310\017("
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.room"
+    artifactId: "room-runtime"
+    version: "2.6.1"
+  }
+  digests {
+    sha256: "ibO\327\255\326\316[\374\301#b\315BsA\322\221\016\'~\325\246\374\304a2\244\211\221\024\320"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.annotation"
+    artifactId: "annotation-experimental"
+    version: "1.4.0"
+  }
+  digests {
+    sha256: "\306\353~g`\021\354e\263$(7=E\r\353\337\304Qy\304\370\263\247R\027O\270|\027\260\212"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.arch.core"
+    artifactId: "core-runtime"
+    version: "2.2.0"
+  }
+  digests {
+    sha256: "\241\276^\f\252+\ab8b\257j\342\033:\260q\201#$Q\204\320\343\r\352\201\265?\231\nG"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.annotation"
+    artifactId: "annotation"
+    version: "1.7.0"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.annotation"
+    artifactId: "annotation-jvm"
+    version: "1.7.0"
+  }
+  digests {
+    sha256: "\343k\216K\203\223\244\255\307N=J\262*\325\243c\226\360\316\242\344\vW4\352\341I7\337\322$"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.arch.core"
+    artifactId: "core-common"
+    version: "2.2.0"
+  }
+  digests {
+    sha256: "e0\212\006\261\300\016\341\206\313\236\0312\023\203\360C\271\223\201?\025\"\304\177J>3\003\275\272A"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.room"
+    artifactId: "room-common"
+    version: "2.6.1"
+  }
+  digests {
+    sha256: "\2312m>\354\244\246Fq\274\210\002\361\344_Nk4\216\214\177\253\2420\303\205M1h\t\377\317"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.room"
+    artifactId: "room-ktx"
+    version: "2.6.1"
+  }
+  digests {
+    sha256: "\332L\f\272~\374\257\242\237\276\253\035\264\031\204#\217%\301\2436\022\301\326\rc\271\225\226\215p\312"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlinx"
+    artifactId: "kotlinx-coroutines-android"
+    version: "1.8.0-RC2"
+  }
+  digests {
+    sha256: "I\250\273\247\320.\304\344\242?\023\177\020&\363B\321l\300\320\201\235\360\326\223\367\225eWaM\022"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlinx"
+    artifactId: "kotlinx-coroutines-core"
+    version: "1.8.0-RC2"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlinx"
+    artifactId: "kotlinx-coroutines-core-jvm"
+    version: "1.8.0-RC2"
+  }
+  digests {
+    sha256: "\345\320\246%SC\214\310\240\002)\'.S(\307\a\212\371\266\246FM\032\020\337\332\370\305\25619"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlinx"
+    artifactId: "kotlinx-coroutines-bom"
+    version: "1.8.0-RC2"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlinx"
+    artifactId: "kotlinx-coroutines-jdk8"
+    version: "1.8.0-RC2"
+  }
+  digests {
+    sha256: "\254K\334\302\365\004}\253xv.{G\304\326\332\357\231\346\rm\020\217CX\177)h\263\323\243:"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlinx"
+    artifactId: "kotlinx-coroutines-reactive"
+    version: "1.8.0-RC2"
+  }
+  digests {
+    sha256: "R\024\347\032\021\214\317\205\027\256_e\312\356\2146M\256U\t\0064\327F\366jrih6\030\242"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.reactivestreams"
+    artifactId: "reactive-streams"
+    version: "1.0.3"
+  }
+  digests {
+    sha256: "\035\356\004\201\a-\031\311)\266#\341U\341M/`\205\334\001\025)\240\240\333\357\310L\365q\330e"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlinx"
+    artifactId: "kotlinx-coroutines-slf4j"
+    version: "1.8.0-RC2"
+  }
+  digests {
+    sha256: "<\366\2263\366\212 f\263\244\303\212\365\326K\r\234\230QJz\233\003v\337W\001\234\037\25233"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.slf4j"
+    artifactId: "slf4j-api"
+    version: "1.7.36"
+  }
+  digests {
+    sha256: "\323\357W^>Iyg\215\300\033\361\334\316Q\002\024\223\264\321\037\267\361\276\212\331\202\207|\026\241\300"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.sqlite"
+    artifactId: "sqlite"
+    version: "2.4.0"
+  }
+  digests {
+    sha256: "\273\177\241\023\021/~HWIn\".0Q\327:\221\n\335t\277@v\036\033\332\345[\002\026\257"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.sqlite"
+    artifactId: "sqlite-framework"
+    version: "2.4.0"
+  }
+  digests {
+    sha256: "\312nP3\"\262\346\003t\302\263l\225\305\v\026p\235\223\210\3766\350\017\262=\341\373\367\246\353\225"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-client-okhttp"
+    version: "2.3.7"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-client-okhttp-jvm"
+    version: "2.3.7"
+  }
+  digests {
+    sha256: "m\022\021g\233\236k\034&\212?CEJ\342\225\b\265\307\213\nz\3162\021\221\251\ai\203S\265"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-client-core"
+    version: "2.3.7"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-client-core-jvm"
+    version: "2.3.7"
+  }
+  digests {
+    sha256: "PW\230\347v\216\235_\230\374.\034\235q\016\341\344\036\021\222\356p\233:\372o\370\313W\024\177\352"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-http"
+    version: "2.3.7"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-http-jvm"
+    version: "2.3.7"
+  }
+  digests {
+    sha256: "\n\246\2743$\251kr\342\262\266\032X\2752Hm\273\205\217#l\234\001\201\326R\361\250\200\317\f"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-utils"
+    version: "2.3.7"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-utils-jvm"
+    version: "2.3.7"
+  }
+  digests {
+    sha256: ")\2756D\300X\"\200\252\362\026\332<\266\006Hh;`f\367Rs^Fk\352\276\3343\301y"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-io"
+    version: "2.3.7"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-io-jvm"
+    version: "2.3.7"
+  }
+  digests {
+    sha256: "Z\022U\035U\255c/\226\366\247\3515!8\360r\023\355\213\237\2330\233{4\231`:S\332\342"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-events"
+    version: "2.3.7"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-events-jvm"
+    version: "2.3.7"
+  }
+  digests {
+    sha256: "\336H\341r0m\204oi\250u\310\367\037C\342\332\273\\\024a\326\312\302j\f\367\345;}6)"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-websocket-serialization"
+    version: "2.3.7"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-websocket-serialization-jvm"
+    version: "2.3.7"
+  }
+  digests {
+    sha256: "\366h\227\250\374_]gM>8\000\204\232\210]\020r\342\334\370\025\'\271\242m\336\226\277\300(\250"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-serialization"
+    version: "2.3.7"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-serialization-jvm"
+    version: "2.3.7"
+  }
+  digests {
+    sha256: "1\0165\362\350s_m\231\240\346_r;kx\245\031\267\217\335\266;0\356\363)?\367\253\037M"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-websockets"
+    version: "2.3.7"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-websockets-jvm"
+    version: "2.3.7"
+  }
+  digests {
+    sha256: "\324\314\202\020\022\034\322Y\231\260\234\224\023j\316\020\023(\264\304\360\005T\352\016\336\344\252\037q\304\363"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "com.squareup.okhttp3"
+    artifactId: "okhttp"
+    version: "4.12.0"
+  }
+  digests {
+    sha256: "\261\005\000\201\261K\267\243\247\345ZM>\360\033]\317\253\304S\264W:O\300\031vq\221\325\364\340"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "com.squareup.okio"
+    artifactId: "okio"
+    version: "3.6.0"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "com.squareup.okio"
+    artifactId: "okio-jvm"
+    version: "3.6.0"
+  }
+  digests {
+    sha256: "gT?\a6\374B*\351\'\355\016PK\230\274^&\237\332\r5\000W\2237\313q=\242\204\022"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlinx"
+    artifactId: "kotlinx-datetime"
+    version: "0.5.0"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlinx"
+    artifactId: "kotlinx-datetime-jvm"
+    version: "0.5.0"
+  }
+  digests {
+    sha256: "\277\360\323Pr\324\372\373`\200R\300\207U\227\240\303\274p>\347\225$bP\221\017\234\257\370Xc"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlinx"
+    artifactId: "kotlinx-serialization-json"
+    version: "1.6.2"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlinx"
+    artifactId: "kotlinx-serialization-json-jvm"
+    version: "1.6.2"
+  }
+  digests {
+    sha256: "\215\'\030\273\004.\203\v\022\267\373\020\257&\320\373\244=\341\361\371\377\340\246\2611\324\322Q\252\302\314"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlinx"
+    artifactId: "kotlinx-serialization-bom"
+    version: "1.6.2"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlinx"
+    artifactId: "kotlinx-serialization-core"
+    version: "1.6.2"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlinx"
+    artifactId: "kotlinx-serialization-core-jvm"
+    version: "1.6.2"
+  }
+  digests {
+    sha256: "\216o\300N\032.\375*\313\274U\003\241\334\235\230\201f\371\236O\037Q\357k\221\303\245 w\275\261"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-client-content-negotiation"
+    version: "2.3.7"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-client-content-negotiation-jvm"
+    version: "2.3.7"
+  }
+  digests {
+    sha256: "\260\364\017\371\244\267\377\275\372\320\275c\243\245@5:\371j`S\330<\224\201\304\3126c{\323`"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-serialization-kotlinx-json"
+    version: "2.3.7"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-serialization-kotlinx-json-jvm"
+    version: "2.3.7"
+  }
+  digests {
+    sha256: "7\306\354\356{\2120\302\002\240\365d\tL\232\354d\021\224\201\266\247\204\312\273\004\n\023c\315\270\307"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-serialization-kotlinx"
+    version: "2.3.7"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-serialization-kotlinx-jvm"
+    version: "2.3.7"
+  }
+  digests {
+    sha256: "\301x\353F\355\025H\224N\304B\266^\356\267\373\177\345QBm~\2733\207\223:\330H\376\036\365"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.core"
+    artifactId: "core-ktx"
+    version: "1.12.0"
+  }
+  digests {
+    sha256: "\225\263\355\257x\"{|\310\330\002\321\037\207\223\251\256\322\222\345+\217\277\214\b\326\023L\313\027\026\323"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.core"
+    artifactId: "core"
+    version: "1.12.0"
+  }
+  digests {
+    sha256: "B\377\247\312G\327\272\217\341\330t\305~\371\307\021\033\304\032+\f\f!Q\2129\340}\"-\355\213"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.collection"
+    artifactId: "collection"
+    version: "1.4.0"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.collection"
+    artifactId: "collection-jvm"
+    version: "1.4.0"
+  }
+  digests {
+    sha256: "\325\317{rd|y\225\a\025\210\376\207\004P\377\234\217\022\177%=-HQ\341a\270\000\366z\340"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.collection"
+    artifactId: "collection-ktx"
+    version: "1.4.0"
+  }
+  digests {
+    sha256: "\306\336\255\242\372\305;\216\246R=\275\247u\227\261(\000ftao\024\017\004\337#&Lm\032\243"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.concurrent"
+    artifactId: "concurrent-futures"
+    version: "1.2.0-alpha02"
+  }
+  digests {
+    sha256: "\245\030Cj\3125\202\262\226\222\215\365=\207V\347\370\025\305{\377U\276\257\032\026\323\227\257A;?"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "com.google.guava"
+    artifactId: "listenablefuture"
+    version: "1.0"
+  }
+  digests {
+    sha256: "\344\255v\a\345\300G|o\211\016\362jI\313\215\033\264\337\373e\v\253E\002\257\356ddN0i"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.concurrent"
+    artifactId: "concurrent-futures-ktx"
+    version: "1.2.0-alpha02"
+  }
+  digests {
+    sha256: "\230\017\252\235\004\311\2204\264\251_>ap\232\tR\353M\r\022\323\336\241\374\035\323S\027\025\313\027"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.interpolator"
+    artifactId: "interpolator"
+    version: "1.0.0"
+  }
+  digests {
+    sha256: "3\03115\246O\342\037\242\303^\354f\210\361\247nQ&\006\300\374\203\334\033h\2367\255\327s*"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.lifecycle"
+    artifactId: "lifecycle-runtime"
+    version: "2.6.2"
+  }
+  digests {
+    sha256: "Hg\375Ryt/\272\203\210\202\0310\313*\377\340m\201\245(\024\347\344\036p9.\240\357\210|"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.lifecycle"
+    artifactId: "lifecycle-common"
+    version: "2.6.2"
+  }
+  digests {
+    sha256: "\363H1\266\307\034\330D\341\323]\033\344\235^yD|Z\270V4e1\261\350go\332st\261"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.lifecycle"
+    artifactId: "lifecycle-common-java8"
+    version: "2.6.2"
+  }
+  digests {
+    sha256: "\306\336\255\242\372\305;\216\246R=\275\247u\227\261(\000ftao\024\017\004\337#&Lm\032\243"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.lifecycle"
+    artifactId: "lifecycle-runtime-compose"
+    version: "2.6.2"
+  }
+  digests {
+    sha256: "\357\231g\336(Hg\331\\\237\302\037I{\356\317\255\001\305@\211\n\231\221\344L\226\303e\363\244x"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.compose.runtime"
+    artifactId: "runtime"
+    version: "1.6.1"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.compose.runtime"
+    artifactId: "runtime-android"
+    version: "1.6.1"
+  }
+  digests {
+    sha256: "6\207\270\210H^\255\023\030\321\027\023\374\325\357gJ\254\251m\305)\271\231\0200\273\356\302S\221#"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.compose.runtime"
+    artifactId: "runtime-saveable"
+    version: "1.6.1"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.compose.runtime"
+    artifactId: "runtime-saveable-android"
+    version: "1.6.1"
+  }
+  digests {
+    sha256: "m\242\032\325\002\322\030h\304\270I\f\250\345\020\230w\\\233\2429}\211mrNxi\276\320\260;"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.compose.ui"
+    artifactId: "ui"
+    version: "1.6.1"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.compose.ui"
+    artifactId: "ui-android"
+    version: "1.6.1"
+  }
+  digests {
+    sha256: "\273\365C\036\177\204\344\203E=\253\265\246\315]\030\365SP-\245/\f\213\351\252\225U6\300\035\016"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.activity"
+    artifactId: "activity-ktx"
+    version: "1.8.1"
+  }
+  digests {
+    sha256: "\237w\312\242\273\354|\356\372\\\223\036/\"<+8jYN\340D-\026\215\376\257\034\205\n\353\235"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.activity"
+    artifactId: "activity"
+    version: "1.8.1"
+  }
+  digests {
+    sha256: "f\274,\023\275\221\373\216\240\236D[!\367\204\323\345\323\251\354\233\030\f\320~\016\222\b\302\3719\306"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.lifecycle"
+    artifactId: "lifecycle-viewmodel"
+    version: "2.6.2"
+  }
+  digests {
+    sha256: "\344\377C8\231\236\034l\234rG\031\365\324\252}\326\033\366\365E\325%j\'\251\323u\337\237#0"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.lifecycle"
+    artifactId: "lifecycle-runtime-ktx"
+    version: "2.6.2"
+  }
+  digests {
+    sha256: "(\240\2704\364\016\335R\342\370\001\v\3340W\322\240\314v\252\245\254\223\021\255\260\271\316\221\234\251\314"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.lifecycle"
+    artifactId: "lifecycle-viewmodel-compose"
+    version: "2.6.2"
+  }
+  digests {
+    sha256: "\302\270  L,\245\216\371\313\001Z>_\373\350\215\214U\260\236\\\270Q\326+DU(\243y\340"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.lifecycle"
+    artifactId: "lifecycle-viewmodel-ktx"
+    version: "2.6.2"
+  }
+  digests {
+    sha256: "\177\300\372#J3!\261\363M\265\206+\027\332\203\321\306,\033\306n\302\375O\033\260\247q\254\372\273"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.lifecycle"
+    artifactId: "lifecycle-viewmodel-savedstate"
+    version: "2.6.2"
+  }
+  digests {
+    sha256: "{\307\334\272\261v6\354\ao\022\257\344\320&q&\\8\224W\261\263f\263z\016\214\271\036-\240"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.lifecycle"
+    artifactId: "lifecycle-livedata-core"
+    version: "2.6.2"
+  }
+  digests {
+    sha256: "\"Vx\n<\377J\036W\373\263\324BU|\027\3346:\270\257\020[\312\365&\035\216-]\271I"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.lifecycle"
+    artifactId: "lifecycle-livedata"
+    version: "2.6.2"
+  }
+  digests {
+    sha256: "g5\237`\235\374+\366]\241\'\v#\003?\205`d\354\'\237\005\216\np\307\025\367\311\00001"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.lifecycle"
+    artifactId: "lifecycle-service"
+    version: "2.6.2"
+  }
+  digests {
+    sha256: "\212\316\2311?\n\346\257G\031K\312\376(\363D\343c\364\322\223\370K+\227\264\201s[\004\336\322"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.lifecycle"
+    artifactId: "lifecycle-process"
+    version: "2.6.2"
+  }
+  digests {
+    sha256: "\0173\261\275\001\177\226Zj\373.{\363\343\2754<b@a\301\230m\352\213\242F\235\0044\2247"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.startup"
+    artifactId: "startup-runtime"
+    version: "1.1.1"
+  }
+  digests {
+    sha256: "\340\2462\2327\022b\376LE\003r\267\017\332\363;v\236\366\221p\224r7\207\317\316\211k\035\323"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.tracing"
+    artifactId: "tracing"
+    version: "1.0.0"
+  }
+  digests {
+    sha256: "\a\270\266\023\226e\270\204\241b\354\317\227\211\034\245\017\177V\203\0223\277%\026\212\340O{V\206\022"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.savedstate"
+    artifactId: "savedstate"
+    version: "1.2.1"
+  }
+  digests {
+    sha256: "!\247\324\274\366\275\271J\327\271(8\001R\223\000\264\373\270\200\214\244\361\221\340\315\316o\330\344pZ"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.savedstate"
+    artifactId: "savedstate-ktx"
+    version: "1.2.1"
+  }
+  digests {
+    sha256: "\205S\370~q6\302N\305$5`\364\217\0342\313\245m\252wr/\211X\232\\\257\313\217x\224"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.profileinstaller"
+    artifactId: "profileinstaller"
+    version: "1.3.0"
+  }
+  digests {
+    sha256: "4\350\262\277\307N#\301R^=\251\003\256D\233\177\033D\n\357E\341\201Y\356G\016\221\231\177H"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.activity"
+    artifactId: "activity-compose"
+    version: "1.8.1"
+  }
+  digests {
+    sha256: "s\324L\360&\272_hX)\302\b_z\b\373\001-\177\306\265ut\023SW1r\213\230\327\033"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.autofill"
+    artifactId: "autofill"
+    version: "1.0.0"
+  }
+  digests {
+    sha256: "\311F\217V\340P\006\352\025\032BlT\225|\320y\233\213\203\245y\322\204m\322 a\363>^\315"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.compose.ui"
+    artifactId: "ui-geometry"
+    version: "1.6.1"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.compose.ui"
+    artifactId: "ui-geometry-android"
+    version: "1.6.1"
+  }
+  digests {
+    sha256: "\257\330\273\265Xy\343\347]\353\030\235\331\rU\001\347YHqR\351\v\3648\372\256\273\000\341\350\252"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.compose.ui"
+    artifactId: "ui-util"
+    version: "1.6.1"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.compose.ui"
+    artifactId: "ui-util-android"
+    version: "1.6.1"
+  }
+  digests {
+    sha256: "_\310\r\263\023\016\3756\204\235\244\266\305\314Q\004\235`\006\205k,\230\365\263q\032\377C<H\300"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.compose.ui"
+    artifactId: "ui-graphics"
+    version: "1.6.1"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.compose.ui"
+    artifactId: "ui-graphics-android"
+    version: "1.6.1"
+  }
+  digests {
+    sha256: "&|Ko\200\330s\"\357\bXSX\335\377z57C\363\033\314\215\361PV\267i\262%\036#"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.compose.ui"
+    artifactId: "ui-unit"
+    version: "1.6.1"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.compose.ui"
+    artifactId: "ui-unit-android"
+    version: "1.6.1"
+  }
+  digests {
+    sha256: "]z\237\277\212\177vX\342\336o\020\267\210\177\363\326\3265\373sa/\b\211n\240S\341\220J\200"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.compose.ui"
+    artifactId: "ui-text"
+    version: "1.6.1"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.compose.ui"
+    artifactId: "ui-text-android"
+    version: "1.6.1"
+  }
+  digests {
+    sha256: "\275\n\240\217MT%\266nx\320\311\vj\375+\031\223T\002\315W\207\345\367\241>D6G\020\315"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.emoji2"
+    artifactId: "emoji2"
+    version: "1.3.0"
+  }
+  digests {
+    sha256: "+\3628\030\262:\231m\332\241\265\375[\263!)\332\377k\273-\316\025\026n/\314\335 \020\261\245"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.compose.ui"
+    artifactId: "ui-tooling-preview"
+    version: "1.6.1"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.compose.ui"
+    artifactId: "ui-tooling-preview-android"
+    version: "1.6.1"
+  }
+  digests {
+    sha256: "\037BM\v\332\3331\241\035\342\026c\205]3\250\204\206/]\207?[vW\034\243\332(\277[\245"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.customview"
+    artifactId: "customview-poolingcontainer"
+    version: "1.0.0"
+  }
+  digests {
+    sha256: "5\204\020/\304\233\363\231\305n;{\344\277\341 \000\304a\0222\f\330\317\205\314\n\217\223\363\347R"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.compose.foundation"
+    artifactId: "foundation"
+    version: "1.6.1"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.compose.foundation"
+    artifactId: "foundation-android"
+    version: "1.6.1"
+  }
+  digests {
+    sha256: "\037\320\341\234\363%/\363t/3\264#\261\016yx\355\272\333\271wr\275\034\366\033\206E\fN\217"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.compose.animation"
+    artifactId: "animation"
+    version: "1.6.1"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.compose.animation"
+    artifactId: "animation-android"
+    version: "1.6.1"
+  }
+  digests {
+    sha256: "\a\243R\\j\327\334s\211\245\341\347B\361\351\211+\303\255As8\325\255^\267c\250\367\246\036\n"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.compose.animation"
+    artifactId: "animation-core"
+    version: "1.6.1"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.compose.animation"
+    artifactId: "animation-core-android"
+    version: "1.6.1"
+  }
+  digests {
+    sha256: "@2\223h\205Dd\263\333\245\323\222\217\213\2756PA\206>\205\024\231\257\310\307U\224d\276\376^"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.compose.foundation"
+    artifactId: "foundation-layout"
+    version: "1.6.1"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.compose.foundation"
+    artifactId: "foundation-layout-android"
+    version: "1.6.1"
+  }
+  digests {
+    sha256: "\365}H\212\361\207\025j\336Q\301\0177\355x\245dyR]\235rr\027\023\245\304\024\3254\372\353"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.versionedparcelable"
+    artifactId: "versionedparcelable"
+    version: "1.1.1"
+  }
+  digests {
+    sha256: "W\350\3312`\321\215[\220\a\311\356\323\306J\321Y\336\220\310`\236\277\307J4|\275QE5\244"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.compose"
+    artifactId: "compose-bom"
+    version: "2024.02.00"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.compose.material"
+    artifactId: "material-icons-extended"
+    version: "1.6.1"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.compose.material"
+    artifactId: "material-icons-extended-android"
+    version: "1.6.1"
+  }
+  digests {
+    sha256: "\335\3557\212\220\360V \264=\214T\273I\202A)\356\220\266\377\213\006\276(\236\234\374\273\343\177\251"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.compose.material"
+    artifactId: "material-icons-core"
+    version: "1.6.1"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.compose.material"
+    artifactId: "material-icons-core-android"
+    version: "1.6.1"
+  }
+  digests {
+    sha256: "c\260\023~\306h\267\324\357\372>\203\360\300\316\246\202\227\363i\300\022\256\354\004\350\v\345K\302RG"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.compose.material"
+    artifactId: "material-ripple"
+    version: "1.6.1"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.compose.material"
+    artifactId: "material-ripple-android"
+    version: "1.6.1"
+  }
+  digests {
+    sha256: "\305\273\251\035\254\037\346jO\226c\v\003\314\370\210\361\\Z\373\376d\037\033\322\304f\334\213\025s^"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.compose.material3"
+    artifactId: "material3"
+    version: "1.2.0"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.compose.material3"
+    artifactId: "material3-android"
+    version: "1.2.0"
+  }
+  digests {
+    sha256: "\020\372\315\350\366o\221\326\032H\310\337\354\343\264\223\3260\202/1\034\322\006C\2424\026\344\361\352\f"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.navigation"
+    artifactId: "navigation-compose"
+    version: "2.7.5"
+  }
+  digests {
+    sha256: "m\216_\\?\247C\004M\313\023;\246\302$\360\323\232>\277\"\265\354I\363Kv\304\350\254A\036"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.navigation"
+    artifactId: "navigation-runtime-ktx"
+    version: "2.7.5"
+  }
+  digests {
+    sha256: "\b7Kp\242L)\273\037\341\026\341d\272\f\006L\017\373\237\364\274\207\177\264\310\307&\206eg\211"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.navigation"
+    artifactId: "navigation-common-ktx"
+    version: "2.7.5"
+  }
+  digests {
+    sha256: "\275|\353\247]&\261\362\354\372\223\035\256hFx\360|\243\272\036\331\006\247,W\261\242\320i\332\244"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.navigation"
+    artifactId: "navigation-common"
+    version: "2.7.5"
+  }
+  digests {
+    sha256: "\216l\207(\030\000\301\354F1\2769(\230\273mh\306\202\027D\222\314N2\a\305\357y\224\245\265"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.navigation"
+    artifactId: "navigation-runtime"
+    version: "2.7.5"
+  }
+  digests {
+    sha256: "\274rxZ\374g\"\241\371]O\210oK\213+h\027\252@\241\177\301\236}\354\244:I\322Z\306"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "com.google.dagger"
+    artifactId: "hilt-android"
+    version: "2.48.1"
+  }
+  digests {
+    sha256: "\232pZ\000\347\370\\j<\321 y\354\25508eqe\224h\031\321<\n@{\177K]\0309"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "com.google.dagger"
+    artifactId: "dagger"
+    version: "2.48.1"
+  }
+  digests {
+    sha256: "\020\230\243OK\2106\030\037D`%\000\307C\0360t+<\370\267G\325<\363\376|n\257\241\216"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "javax.inject"
+    artifactId: "javax.inject"
+    version: "1"
+  }
+  digests {
+    sha256: "\221\307pD\245\fH\0266\303-\221o\330\234\221\030\247!\2259\004R\310\020e\b\017\225}\347\377"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "com.google.dagger"
+    artifactId: "dagger-lint-aar"
+    version: "2.48.1"
+  }
+  digests {
+    sha256: "7\302\353\364\243Q\271$RV\320z\t5\206R\335\017\236?P\316@\370\343\347\031\0315\367\235\342"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "com.google.dagger"
+    artifactId: "hilt-core"
+    version: "2.48.1"
+  }
+  digests {
+    sha256: "\206\321{_5{<f\213\332\202r\241\0023\362m\206.\307,\246\363m\235\333\201\374\365d\231D"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "com.google.code.findbugs"
+    artifactId: "jsr305"
+    version: "3.0.2"
+  }
+  digests {
+    sha256: "vj\322\240x?&\207\226,\212\327L\356\3148\242\213\237r\242\320\205\356C\213x\023\351(\320\307"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.fragment"
+    artifactId: "fragment"
+    version: "1.5.1"
+  }
+  digests {
+    sha256: "\202\260G\200\355\242\033\n^\352\002GT\025\210z\034\255\3736\2137\022!\256\264\a\003\300g\3638"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.loader"
+    artifactId: "loader"
+    version: "1.0.0"
+  }
+  digests {
+    sha256: "\021\3675\313;U\304X\324p\276\331\342RT7[Q\213K\033\255i&x:p&\333\017P%"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.viewpager"
+    artifactId: "viewpager"
+    version: "1.0.0"
+  }
+  digests {
+    sha256: "\024z\364\341J\031\204\001\r\217\025^^\031\327\201\360<\035p\337\355\002\250\340\321\204(\270\374\206\202"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.customview"
+    artifactId: "customview"
+    version: "1.0.0"
+  }
+  digests {
+    sha256: " \345\270\366Rj4YZ`OVq\215\250\021g\300\264\nz\224\245}\2525Vc\362YM\362"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.hilt"
+    artifactId: "hilt-navigation-compose"
+    version: "1.1.0"
+  }
+  digests {
+    sha256: "\"1\324\\\331|\r\354\344L\270Z\270.r\336\275\277\366\277\244)I>\214td\235\022\031/E"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.hilt"
+    artifactId: "hilt-navigation"
+    version: "1.1.0"
+  }
+  digests {
+    sha256: "F\241\321$\030\367zuO\311\034\\(\254\277\004\034x\366N\240\203\361\372\2234\235\216C\366\352\211"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "io.github.jan-tennert.supabase"
+    artifactId: "bom"
+    version: "2.0.4"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.github.jan-tennert.supabase"
+    artifactId: "gotrue-kt"
+    version: "2.0.4"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.github.jan-tennert.supabase"
+    artifactId: "gotrue-kt-android"
+    version: "2.0.4"
+  }
+  digests {
+    sha256: "\273\232\323\036\254\240\252\275\267\000%\327}\317\357ni\301I\vZ\3671\243\273|g\030#\031y\333"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.browser"
+    artifactId: "browser"
+    version: "1.7.0"
+  }
+  digests {
+    sha256: "\340;n\370\306\327\241H\210g\002\253\315)\225\356\035K\300I,\254_\306\252I\304r\374\340k\223"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "com.russhwolf"
+    artifactId: "multiplatform-settings-no-arg"
+    version: "1.1.1"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "com.russhwolf"
+    artifactId: "multiplatform-settings-no-arg-android"
+    version: "1.1.1"
+  }
+  digests {
+    sha256: "^\3039\275\230\027\030\266\351c\357\345\304\210O\027d\275l\344\242\n\016\221eQ\312\337\200\321P\220"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "com.russhwolf"
+    artifactId: "multiplatform-settings"
+    version: "1.1.1"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "com.russhwolf"
+    artifactId: "multiplatform-settings-android"
+    version: "1.1.1"
+  }
+  digests {
+    sha256: "P\f\272v\326\225\374\344\237\253\315\204\371\215\244\343\365\031\315\217fI\022\236\aF}z\315\346\034\304"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "com.russhwolf"
+    artifactId: "multiplatform-settings-coroutines"
+    version: "1.1.1"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "com.russhwolf"
+    artifactId: "multiplatform-settings-coroutines-android"
+    version: "1.1.1"
+  }
+  digests {
+    sha256: "\327\254\f\211\034p\362\326\177\221\343\233\350\036UA\226Z#\025\322\2467\275Y\215FW\203\330\006\f"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.github.jan-tennert.supabase"
+    artifactId: "supabase-kt"
+    version: "2.0.4"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.github.jan-tennert.supabase"
+    artifactId: "supabase-kt-android"
+    version: "2.0.4"
+  }
+  digests {
+    sha256: "\215\321\201\177\203uA\036\360#vv\002z,\301\321\331\257x\202\352\212+\315TuO\272\276\306\004"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "co.touchlab"
+    artifactId: "kermit"
+    version: "2.0.2"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "co.touchlab"
+    artifactId: "kermit-android"
+    version: "2.0.2"
+  }
+  digests {
+    sha256: "\222+SvU|b\362\205\376\367\346;\266n\375\224\316\344\330\346_\314\322I\220^\350\303\343\242\311"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "co.touchlab"
+    artifactId: "kermit-core"
+    version: "2.0.2"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "co.touchlab"
+    artifactId: "kermit-core-android"
+    version: "2.0.2"
+  }
+  digests {
+    sha256: "\275\341\t\230o(\273\016@\ro\003\220[=\221\nU\253\356\317\21594ic\2369v4T\221"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlin"
+    artifactId: "kotlin-test-junit"
+    version: "1.9.10"
+  }
+  digests {
+    sha256: "\003\227I\177W!\231M-\274\0238\310\3772\267N\"HI\350z\272\272\217?\rB)\353\2636"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlin"
+    artifactId: "kotlin-test"
+    version: "1.9.10"
+  }
+  digests {
+    sha256: "\222\226lNu\346\246\375Q\005d4N\264\n\305\316vn\273\253\313\354$?R\213\vlA\335X"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "junit"
+    artifactId: "junit"
+    version: "4.13.2"
+  }
+  digests {
+    sha256: "\216I[cDi\326O\270\254\3724\225\240e\313\254\310\240\377\365\\\341\343\020\a\276L\026\334W\323"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.hamcrest"
+    artifactId: "hamcrest-core"
+    version: "1.3"
+  }
+  digests {
+    sha256: "f\375\357\221\351s\223H\337z\tj\243\204\245h_N\207U\204\314\350\223\206\247\244rQ\304\330\351"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlinx"
+    artifactId: "atomicfu"
+    version: "0.23.1"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlinx"
+    artifactId: "atomicfu-jvm"
+    version: "0.23.1"
+  }
+  digests {
+    sha256: "\020\037\364?\365c\374\241g\257Z\336\230\303\266\233\365i\001\016\253tP\023\270M\211U\003M;<"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "com.soywiz.korlibs.krypto"
+    artifactId: "krypto"
+    version: "4.0.10"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "com.soywiz.korlibs.krypto"
+    artifactId: "krypto-android"
+    version: "4.0.10"
+  }
+  digests {
+    sha256: "<*\235\036\036\334\311\376\303 lM\226\351\213\325\ay|5\322\261~\322\030CG)Qn\340\021"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.github.jan-tennert.supabase"
+    artifactId: "postgrest-kt"
+    version: "2.0.4"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.github.jan-tennert.supabase"
+    artifactId: "postgrest-kt-android"
+    version: "2.0.4"
+  }
+  digests {
+    sha256: "\232\276v\342\345\305\265\234\207\200\207 \200\210\273\230\251\327X\320a{2\262*\212\331)\374r\233\355"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.jetbrains.kotlin"
+    artifactId: "kotlin-reflect"
+    version: "1.9.21"
+  }
+  digests {
+    sha256: "\2413\340I\360\244\342Ie\025\202B\216\026m\344\337\254\225F\255\3646\266\027!\031%^\336Q\017"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.github.jan-tennert.supabase"
+    artifactId: "realtime-kt"
+    version: "2.0.4"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.github.jan-tennert.supabase"
+    artifactId: "realtime-kt-android"
+    version: "2.0.4"
+  }
+  digests {
+    sha256: "\373\210X\235@\022;\006\231z\350\214\3469\323\237\240\224\356\241\254m\315\341\312KM;\332\326(\370"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-client-websockets"
+    version: "2.3.7"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-client-websockets-jvm"
+    version: "2.3.7"
+  }
+  digests {
+    sha256: "\361\336\313\250\220\374\313J\214\277\241\003\306c\215\227H\034\032Eh^#\037\353h\350\223\031~\313\300"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-client-android"
+    version: "2.3.7"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-client-android-jvm"
+    version: "2.3.7"
+  }
+  digests {
+    sha256: "kd\215\355\307\243\337\226\215\233\331\316\370D\330+\323\345\241Y\262*\375\r\024\220\356\\\274wb\307"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.datastore"
+    artifactId: "datastore-preferences"
+    version: "1.0.0"
+  }
+  digests {
+    sha256: "o\232\307 \202\272\333wdG\315\325y\301l%\301\201\'\030\\k\251\362\317\253\222FG>-\261"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.datastore"
+    artifactId: "datastore"
+    version: "1.0.0"
+  }
+  digests {
+    sha256: "(\376\242\2156[J\357M^\2072\376Q\3623\345\200\322\004,\324\247\nk):Q\215\256\307\003"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.datastore"
+    artifactId: "datastore-core"
+    version: "1.0.0"
+  }
+  digests {
+    sha256: "\310\020PUB\000\025\223\aQ\2315[\031\331\213\205^\3346\331W[\327d\030\003!\342\n\222\274"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.datastore"
+    artifactId: "datastore-preferences-core"
+    version: "1.0.0"
+  }
+  digests {
+    sha256: "\255T\3363J\320\364\245:[\244\030v\371\026\2041\232\214\3639c\025\267g\265\021\002\244\023\213\321"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.work"
+    artifactId: "work-runtime-ktx"
+    version: "2.9.0"
+  }
+  digests {
+    sha256: "</\232\nQ\202o\033\247Gu\035\211\235\230W\336\371\227l\t\370\352\220\006k6J\274\262J\031"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.work"
+    artifactId: "work-runtime"
+    version: "2.9.0"
+  }
+  digests {
+    sha256: "\213\205\363\212\250&\331\002\350\250\215*\371\334s\245\364?f\030r\004\205\361nt&\222\305\241\217o"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.hilt"
+    artifactId: "hilt-work"
+    version: "1.1.0"
+  }
+  digests {
+    sha256: "G\326\267\227==D\241COP\tQ\364q\363q\2612\316\242\244G\232\177RO\3261\343ry"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.hilt"
+    artifactId: "hilt-common"
+    version: "1.1.0"
+  }
+  digests {
+    sha256: "k\t\b\037\325\241\r\345i\264\276dc\261F\366\004[\261\211\031\2770\232\377\006I\200\2661\003q"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "com.google.android.gms"
+    artifactId: "play-services-auth"
+    version: "20.7.0"
+  }
+  digests {
+    sha256: "\025\004\224\327\240R\253\252\254\233\270)\242\214\212\322j\303\312Y\305v\301ig\275\276(\252\252N\026"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "com.google.android.gms"
+    artifactId: "play-services-auth-api-phone"
+    version: "18.0.1"
+  }
+  digests {
+    sha256: "\225d\025NE\346%\322\346$\a@\372\212 R\205\260\326\235\3728q\322\271\b\266\3125\272X\'"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "com.google.android.gms"
+    artifactId: "play-services-base"
+    version: "18.0.1"
+  }
+  digests {
+    sha256: "(\226\327oC+\345!g)[\271\316E\255\342\\1\n\357\374\004\322\214\370\333j\025\206\216\203\336"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "com.google.android.gms"
+    artifactId: "play-services-basement"
+    version: "18.2.0"
+  }
+  digests {
+    sha256: "\357C\353\374d\035qH\025CROF\321&y;L\265{\364f\304\337L\344=\f\265\341\033\221"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "com.google.android.gms"
+    artifactId: "play-services-tasks"
+    version: "18.0.1"
+  }
+  digests {
+    sha256: "\361\006\333H\306\314\372\216\023\025\247\255\304J\354\320/\3675^\263\372}\315\313\250\302\203\250\353\026\201"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "com.google.android.gms"
+    artifactId: "play-services-auth-base"
+    version: "18.0.4"
+  }
+  digests {
+    sha256: "\253RK\030r]\220\243\006\r\247\\A\3241\3237\266\331\017^\2259\357\356\337!Zu\336\266?"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "com.google.android.gms"
+    artifactId: "play-services-fido"
+    version: "20.1.0"
+  }
+  digests {
+    sha256: "\222r:8\344\r:\312\037\2365\021YR\231\220!\251/\254$\2371a\3552\223\2214r\251\270"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.credentials"
+    artifactId: "credentials"
+    version: "1.2.0"
+  }
+  digests {
+    sha256: "\216\342\353\0218\021vO\350iW\006\333\"gX4\024\243X\036R\315h&X !\306\363\313M"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "androidx.credentials"
+    artifactId: "credentials-play-services-auth"
+    version: "1.2.0"
+  }
+  digests {
+    sha256: "\227g\'rD\372;\256|\236\201\02129\034N\204/\263\323f\357\367e\340O\025\201\aB\'\251"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "com.google.android.libraries.identity.googleid"
+    artifactId: "googleid"
+    version: "1.1.0"
+  }
+  digests {
+    sha256: "\031J\301\374\031\206\335\037b\004o\2567\335\367~cw\017\334\037=4\272\2529|\373\364\321\221\242"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "com.google.ai.client.generativeai"
+    artifactId: "generativeai"
+    version: "0.1.2"
+  }
+  digests {
+    sha256: "b%\322\027iq\215\001\367\366z\233{)5\367\344\364\377\211:\316\021t\340*9\371\226\a\342\230"
+  }
+  repo_index {
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-client-logging"
+    version: "2.3.2"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "io.ktor"
+    artifactId: "ktor-client-logging-jvm"
+    version: "2.3.2"
+  }
+  digests {
+    sha256: "\230\375\021aX\315C.~\227\247\211:\352[S\311\375\266;F\251\214>\024\221%\202\274\315\304\201"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library {
+  maven_library {
+    groupId: "org.slf4j"
+    artifactId: "slf4j-android"
+    version: "1.7.36"
+  }
+  digests {
+    sha256: "\300\346\317\000h\354b\350k\244\341YY\355\200%[\325\031\003s\365r\273V\227\365\0244d\333\363"
+  }
+  repo_index {
+    value: 1
+  }
+}
+library_dependencies {
+  library_dep_index: 1
+  library_dep_index: 2
+  library_dep_index: 3
+  library_dep_index: 4
+}
+library_dependencies {
+  library_index: 2
+  library_dep_index: 0
+}
+library_dependencies {
+  library_index: 3
+  library_dep_index: 0
+}
+library_dependencies {
+  library_index: 4
+  library_dep_index: 0
+  library_dep_index: 3
+}
+library_dependencies {
+  library_index: 5
+  library_dep_index: 6
+  library_dep_index: 7
+  library_dep_index: 11
+  library_dep_index: 22
+  library_dep_index: 23
+  library_dep_index: 11
+  library_dep_index: 12
+}
+library_dependencies {
+  library_index: 6
+  library_dep_index: 0
+}
+library_dependencies {
+  library_index: 7
+  library_dep_index: 8
+  library_dep_index: 10
+}
+library_dependencies {
+  library_index: 8
+  library_dep_index: 9
+}
+library_dependencies {
+  library_index: 9
+  library_dep_index: 0
+}
+library_dependencies {
+  library_index: 10
+  library_dep_index: 8
+}
+library_dependencies {
+  library_index: 11
+  library_dep_index: 8
+  library_dep_index: 4
+  library_dep_index: 12
+  library_dep_index: 5
+}
+library_dependencies {
+  library_index: 12
+  library_dep_index: 11
+  library_dep_index: 5
+  library_dep_index: 0
+  library_dep_index: 13
+  library_dep_index: 11
+  library_dep_index: 5
+}
+library_dependencies {
+  library_index: 13
+  library_dep_index: 14
+  library_dep_index: 16
+  library_dep_index: 0
+}
+library_dependencies {
+  library_index: 14
+  library_dep_index: 15
+}
+library_dependencies {
+  library_index: 15
+  library_dep_index: 1
+  library_dep_index: 16
+}
+library_dependencies {
+  library_index: 16
+  library_dep_index: 13
+  library_dep_index: 15
+  library_dep_index: 14
+  library_dep_index: 17
+  library_dep_index: 18
+  library_dep_index: 20
+}
+library_dependencies {
+  library_index: 17
+  library_dep_index: 14
+  library_dep_index: 16
+}
+library_dependencies {
+  library_index: 18
+  library_dep_index: 14
+  library_dep_index: 16
+  library_dep_index: 19
+  library_dep_index: 0
+}
+library_dependencies {
+  library_index: 20
+  library_dep_index: 21
+  library_dep_index: 14
+  library_dep_index: 16
+  library_dep_index: 0
+}
+library_dependencies {
+  library_index: 22
+  library_dep_index: 8
+  library_dep_index: 0
+  library_dep_index: 23
+}
+library_dependencies {
+  library_index: 23
+  library_dep_index: 8
+  library_dep_index: 22
+  library_dep_index: 0
+  library_dep_index: 22
+}
+library_dependencies {
+  library_index: 24
+  library_dep_index: 25
+}
+library_dependencies {
+  library_index: 25
+  library_dep_index: 3
+  library_dep_index: 4
+  library_dep_index: 17
+  library_dep_index: 21
+  library_dep_index: 26
+  library_dep_index: 42
+  library_dep_index: 43
+  library_dep_index: 14
+  library_dep_index: 2
+}
+library_dependencies {
+  library_index: 26
+  library_dep_index: 27
+}
+library_dependencies {
+  library_index: 27
+  library_dep_index: 3
+  library_dep_index: 4
+  library_dep_index: 17
+  library_dep_index: 21
+  library_dep_index: 14
+  library_dep_index: 28
+  library_dep_index: 34
+  library_dep_index: 36
+  library_dep_index: 2
+  library_dep_index: 20
+}
+library_dependencies {
+  library_index: 28
+  library_dep_index: 29
+}
+library_dependencies {
+  library_index: 29
+  library_dep_index: 3
+  library_dep_index: 4
+  library_dep_index: 17
+  library_dep_index: 21
+  library_dep_index: 14
+  library_dep_index: 30
+  library_dep_index: 2
+}
+library_dependencies {
+  library_index: 30
+  library_dep_index: 31
+}
+library_dependencies {
+  library_index: 31
+  library_dep_index: 3
+  library_dep_index: 4
+  library_dep_index: 17
+  library_dep_index: 21
+  library_dep_index: 14
+  library_dep_index: 32
+  library_dep_index: 2
+}
+library_dependencies {
+  library_index: 32
+  library_dep_index: 33
+}
+library_dependencies {
+  library_index: 33
+  library_dep_index: 3
+  library_dep_index: 4
+  library_dep_index: 17
+  library_dep_index: 21
+  library_dep_index: 14
+  library_dep_index: 2
+}
+library_dependencies {
+  library_index: 34
+  library_dep_index: 35
+}
+library_dependencies {
+  library_index: 35
+  library_dep_index: 3
+  library_dep_index: 4
+  library_dep_index: 17
+  library_dep_index: 21
+  library_dep_index: 14
+  library_dep_index: 28
+  library_dep_index: 30
+  library_dep_index: 2
+}
+library_dependencies {
+  library_index: 36
+  library_dep_index: 37
+}
+library_dependencies {
+  library_index: 37
+  library_dep_index: 3
+  library_dep_index: 4
+  library_dep_index: 17
+  library_dep_index: 21
+  library_dep_index: 14
+  library_dep_index: 28
+  library_dep_index: 38
+  library_dep_index: 2
+}
+library_dependencies {
+  library_index: 38
+  library_dep_index: 39
+}
+library_dependencies {
+  library_index: 39
+  library_dep_index: 3
+  library_dep_index: 4
+  library_dep_index: 17
+  library_dep_index: 21
+  library_dep_index: 14
+  library_dep_index: 28
+  library_dep_index: 40
+  library_dep_index: 2
+}
+library_dependencies {
+  library_index: 40
+  library_dep_index: 41
+}
+library_dependencies {
+  library_index: 41
+  library_dep_index: 3
+  library_dep_index: 4
+  library_dep_index: 17
+  library_dep_index: 21
+  library_dep_index: 14
+  library_dep_index: 28
+  library_dep_index: 2
+}
+library_dependencies {
+  library_index: 42
+  library_dep_index: 43
+  library_dep_index: 4
+}
+library_dependencies {
+  library_index: 43
+  library_dep_index: 44
+}
+library_dependencies {
+  library_index: 44
+  library_dep_index: 4
+  library_dep_index: 2
+}
+library_dependencies {
+  library_index: 45
+  library_dep_index: 46
+}
+library_dependencies {
+  library_index: 46
+  library_dep_index: 0
+}
+library_dependencies {
+  library_index: 47
+  library_dep_index: 48
+}
+library_dependencies {
+  library_index: 48
+  library_dep_index: 0
+  library_dep_index: 49
+  library_dep_index: 50
+}
+library_dependencies {
+  library_index: 49
+  library_dep_index: 48
+  library_dep_index: 47
+  library_dep_index: 50
+  library_dep_index: 51
+}
+library_dependencies {
+  library_index: 50
+  library_dep_index: 51
+}
+library_dependencies {
+  library_index: 51
+  library_dep_index: 0
+  library_dep_index: 49
+  library_dep_index: 2
+}
+library_dependencies {
+  library_index: 52
+  library_dep_index: 53
+}
+library_dependencies {
+  library_index: 53
+  library_dep_index: 3
+  library_dep_index: 4
+  library_dep_index: 17
+  library_dep_index: 21
+  library_dep_index: 14
+  library_dep_index: 26
+  library_dep_index: 38
+  library_dep_index: 2
+}
+library_dependencies {
+  library_index: 54
+  library_dep_index: 55
+}
+library_dependencies {
+  library_index: 55
+  library_dep_index: 3
+  library_dep_index: 4
+  library_dep_index: 17
+  library_dep_index: 21
+  library_dep_index: 14
+  library_dep_index: 28
+  library_dep_index: 56
+  library_dep_index: 47
+  library_dep_index: 2
+}
+library_dependencies {
+  library_index: 56
+  library_dep_index: 57
+}
+library_dependencies {
+  library_index: 57
+  library_dep_index: 3
+  library_dep_index: 4
+  library_dep_index: 17
+  library_dep_index: 21
+  library_dep_index: 14
+  library_dep_index: 28
+  library_dep_index: 38
+  library_dep_index: 50
+  library_dep_index: 2
+}
+library_dependencies {
+  library_index: 58
+  library_dep_index: 8
+  library_dep_index: 59
+  library_dep_index: 0
+  library_dep_index: 59
+}
+library_dependencies {
+  library_index: 59
+  library_dep_index: 8
+  library_dep_index: 6
+  library_dep_index: 60
+  library_dep_index: 63
+  library_dep_index: 66
+  library_dep_index: 67
+  library_dep_index: 117
+  library_dep_index: 0
+  library_dep_index: 58
+}
+library_dependencies {
+  library_index: 60
+  library_dep_index: 61
+}
+library_dependencies {
+  library_index: 61
+  library_dep_index: 8
+  library_dep_index: 0
+  library_dep_index: 62
+  library_dep_index: 62
+}
+library_dependencies {
+  library_index: 62
+  library_dep_index: 60
+  library_dep_index: 60
+}
+library_dependencies {
+  library_index: 63
+  library_dep_index: 8
+  library_dep_index: 64
+  library_dep_index: 65
+}
+library_dependencies {
+  library_index: 65
+  library_dep_index: 63
+  library_dep_index: 0
+  library_dep_index: 14
+  library_dep_index: 63
+}
+library_dependencies {
+  library_index: 66
+  library_dep_index: 8
+}
+library_dependencies {
+  library_index: 67
+  library_dep_index: 8
+  library_dep_index: 10
+  library_dep_index: 7
+  library_dep_index: 68
+  library_dep_index: 92
+  library_dep_index: 0
+  library_dep_index: 68
+  library_dep_index: 69
+  library_dep_index: 70
+  library_dep_index: 80
+  library_dep_index: 79
+  library_dep_index: 81
+  library_dep_index: 82
+  library_dep_index: 83
+  library_dep_index: 84
+  library_dep_index: 85
+  library_dep_index: 86
+  library_dep_index: 87
+}
+library_dependencies {
+  library_index: 68
+  library_dep_index: 8
+  library_dep_index: 0
+  library_dep_index: 13
+  library_dep_index: 69
+  library_dep_index: 84
+  library_dep_index: 67
+  library_dep_index: 70
+  library_dep_index: 80
+  library_dep_index: 79
+  library_dep_index: 81
+  library_dep_index: 82
+  library_dep_index: 83
+  library_dep_index: 85
+  library_dep_index: 86
+  library_dep_index: 87
+}
+library_dependencies {
+  library_index: 69
+  library_dep_index: 8
+  library_dep_index: 68
+  library_dep_index: 68
+  library_dep_index: 67
+  library_dep_index: 70
+  library_dep_index: 80
+  library_dep_index: 79
+  library_dep_index: 81
+  library_dep_index: 82
+  library_dep_index: 83
+  library_dep_index: 84
+  library_dep_index: 85
+  library_dep_index: 86
+  library_dep_index: 87
+}
+library_dependencies {
+  library_index: 70
+  library_dep_index: 6
+  library_dep_index: 71
+  library_dep_index: 75
+  library_dep_index: 80
+  library_dep_index: 0
+  library_dep_index: 69
+  library_dep_index: 67
+  library_dep_index: 80
+  library_dep_index: 79
+  library_dep_index: 81
+  library_dep_index: 82
+  library_dep_index: 83
+  library_dep_index: 68
+  library_dep_index: 84
+  library_dep_index: 85
+  library_dep_index: 86
+  library_dep_index: 87
+}
+library_dependencies {
+  library_index: 71
+  library_dep_index: 72
+}
+library_dependencies {
+  library_index: 72
+  library_dep_index: 60
+  library_dep_index: 0
+  library_dep_index: 2
+  library_dep_index: 13
+  library_dep_index: 14
+  library_dep_index: 73
+}
+library_dependencies {
+  library_index: 73
+  library_dep_index: 74
+}
+library_dependencies {
+  library_index: 74
+  library_dep_index: 8
+  library_dep_index: 71
+  library_dep_index: 0
+  library_dep_index: 2
+  library_dep_index: 71
+}
+library_dependencies {
+  library_index: 75
+  library_dep_index: 76
+}
+library_dependencies {
+  library_index: 76
+  library_dep_index: 77
+  library_dep_index: 8
+  library_dep_index: 94
+  library_dep_index: 60
+  library_dep_index: 60
+  library_dep_index: 71
+  library_dep_index: 73
+  library_dep_index: 95
+  library_dep_index: 99
+  library_dep_index: 103
+  library_dep_index: 101
+  library_dep_index: 97
+  library_dep_index: 59
+  library_dep_index: 108
+  library_dep_index: 105
+  library_dep_index: 67
+  library_dep_index: 79
+  library_dep_index: 92
+  library_dep_index: 91
+  library_dep_index: 0
+  library_dep_index: 2
+  library_dep_index: 13
+  library_dep_index: 14
+  library_dep_index: 95
+  library_dep_index: 99
+  library_dep_index: 103
+  library_dep_index: 106
+  library_dep_index: 101
+  library_dep_index: 97
+  library_dep_index: 109
+}
+library_dependencies {
+  library_index: 77
+  library_dep_index: 78
+  library_dep_index: 58
+  library_dep_index: 80
+  library_dep_index: 82
+  library_dep_index: 91
+  library_dep_index: 0
+  library_dep_index: 78
+  library_dep_index: 93
+}
+library_dependencies {
+  library_index: 78
+  library_dep_index: 8
+  library_dep_index: 60
+  library_dep_index: 59
+  library_dep_index: 67
+  library_dep_index: 79
+  library_dep_index: 83
+  library_dep_index: 92
+  library_dep_index: 90
+  library_dep_index: 89
+  library_dep_index: 0
+  library_dep_index: 93
+  library_dep_index: 77
+}
+library_dependencies {
+  library_index: 79
+  library_dep_index: 8
+  library_dep_index: 0
+  library_dep_index: 68
+  library_dep_index: 69
+  library_dep_index: 67
+  library_dep_index: 70
+  library_dep_index: 80
+  library_dep_index: 81
+  library_dep_index: 82
+  library_dep_index: 83
+  library_dep_index: 84
+  library_dep_index: 85
+  library_dep_index: 86
+  library_dep_index: 87
+}
+library_dependencies {
+  library_index: 80
+  library_dep_index: 8
+  library_dep_index: 67
+  library_dep_index: 0
+  library_dep_index: 13
+  library_dep_index: 67
+  library_dep_index: 70
+  library_dep_index: 81
+  library_dep_index: 79
+  library_dep_index: 69
+  library_dep_index: 82
+  library_dep_index: 83
+  library_dep_index: 68
+  library_dep_index: 84
+  library_dep_index: 85
+  library_dep_index: 86
+  library_dep_index: 87
+}
+library_dependencies {
+  library_index: 81
+  library_dep_index: 6
+  library_dep_index: 71
+  library_dep_index: 75
+  library_dep_index: 69
+  library_dep_index: 82
+  library_dep_index: 83
+  library_dep_index: 0
+  library_dep_index: 69
+  library_dep_index: 67
+  library_dep_index: 70
+  library_dep_index: 80
+  library_dep_index: 79
+  library_dep_index: 82
+  library_dep_index: 83
+  library_dep_index: 68
+  library_dep_index: 84
+  library_dep_index: 85
+  library_dep_index: 86
+  library_dep_index: 87
+}
+library_dependencies {
+  library_index: 82
+  library_dep_index: 79
+  library_dep_index: 0
+  library_dep_index: 13
+  library_dep_index: 68
+  library_dep_index: 69
+  library_dep_index: 67
+  library_dep_index: 70
+  library_dep_index: 80
+  library_dep_index: 79
+  library_dep_index: 81
+  library_dep_index: 83
+  library_dep_index: 84
+  library_dep_index: 85
+  library_dep_index: 86
+  library_dep_index: 87
+}
+library_dependencies {
+  library_index: 83
+  library_dep_index: 8
+  library_dep_index: 58
+  library_dep_index: 84
+  library_dep_index: 79
+  library_dep_index: 90
+  library_dep_index: 0
+  library_dep_index: 13
+  library_dep_index: 68
+  library_dep_index: 69
+  library_dep_index: 84
+  library_dep_index: 67
+  library_dep_index: 70
+  library_dep_index: 80
+  library_dep_index: 79
+  library_dep_index: 81
+  library_dep_index: 82
+  library_dep_index: 85
+  library_dep_index: 86
+  library_dep_index: 87
+}
+library_dependencies {
+  library_index: 84
+  library_dep_index: 10
+  library_dep_index: 7
+  library_dep_index: 68
+  library_dep_index: 0
+  library_dep_index: 68
+  library_dep_index: 69
+  library_dep_index: 85
+  library_dep_index: 67
+  library_dep_index: 70
+  library_dep_index: 80
+  library_dep_index: 86
+  library_dep_index: 79
+  library_dep_index: 81
+  library_dep_index: 82
+  library_dep_index: 83
+  library_dep_index: 87
+}
+library_dependencies {
+  library_index: 85
+  library_dep_index: 10
+  library_dep_index: 7
+  library_dep_index: 84
+  library_dep_index: 0
+  library_dep_index: 68
+  library_dep_index: 69
+  library_dep_index: 84
+  library_dep_index: 67
+  library_dep_index: 70
+  library_dep_index: 80
+  library_dep_index: 86
+  library_dep_index: 79
+  library_dep_index: 81
+  library_dep_index: 82
+  library_dep_index: 83
+  library_dep_index: 87
+}
+library_dependencies {
+  library_index: 86
+  library_dep_index: 67
+  library_dep_index: 0
+  library_dep_index: 68
+  library_dep_index: 69
+  library_dep_index: 85
+  library_dep_index: 84
+  library_dep_index: 67
+  library_dep_index: 70
+  library_dep_index: 80
+  library_dep_index: 79
+  library_dep_index: 81
+  library_dep_index: 82
+  library_dep_index: 83
+  library_dep_index: 87
+}
+library_dependencies {
+  library_index: 87
+  library_dep_index: 8
+  library_dep_index: 67
+  library_dep_index: 88
+  library_dep_index: 0
+  library_dep_index: 68
+  library_dep_index: 69
+  library_dep_index: 85
+  library_dep_index: 84
+  library_dep_index: 67
+  library_dep_index: 70
+  library_dep_index: 80
+  library_dep_index: 86
+  library_dep_index: 79
+  library_dep_index: 81
+  library_dep_index: 82
+  library_dep_index: 83
+}
+library_dependencies {
+  library_index: 88
+  library_dep_index: 8
+  library_dep_index: 89
+}
+library_dependencies {
+  library_index: 89
+  library_dep_index: 8
+}
+library_dependencies {
+  library_index: 90
+  library_dep_index: 8
+  library_dep_index: 10
+  library_dep_index: 68
+  library_dep_index: 0
+  library_dep_index: 91
+}
+library_dependencies {
+  library_index: 91
+  library_dep_index: 90
+  library_dep_index: 0
+  library_dep_index: 90
+}
+library_dependencies {
+  library_index: 92
+  library_dep_index: 8
+  library_dep_index: 63
+  library_dep_index: 88
+  library_dep_index: 64
+}
+library_dependencies {
+  library_index: 93
+  library_dep_index: 77
+  library_dep_index: 71
+  library_dep_index: 73
+  library_dep_index: 75
+  library_dep_index: 79
+  library_dep_index: 0
+  library_dep_index: 77
+  library_dep_index: 78
+}
+library_dependencies {
+  library_index: 94
+  library_dep_index: 59
+}
+library_dependencies {
+  library_index: 95
+  library_dep_index: 96
+}
+library_dependencies {
+  library_index: 96
+  library_dep_index: 8
+  library_dep_index: 71
+  library_dep_index: 97
+  library_dep_index: 0
+  library_dep_index: 2
+  library_dep_index: 75
+  library_dep_index: 99
+  library_dep_index: 103
+  library_dep_index: 106
+  library_dep_index: 101
+  library_dep_index: 97
+}
+library_dependencies {
+  library_index: 97
+  library_dep_index: 98
+}
+library_dependencies {
+  library_index: 98
+  library_dep_index: 0
+  library_dep_index: 2
+  library_dep_index: 75
+  library_dep_index: 95
+  library_dep_index: 99
+  library_dep_index: 103
+  library_dep_index: 106
+  library_dep_index: 101
+}
+library_dependencies {
+  library_index: 99
+  library_dep_index: 100
+}
+library_dependencies {
+  library_index: 100
+  library_dep_index: 8
+  library_dep_index: 60
+  library_dep_index: 71
+  library_dep_index: 101
+  library_dep_index: 97
+  library_dep_index: 2
+  library_dep_index: 75
+  library_dep_index: 95
+  library_dep_index: 103
+  library_dep_index: 106
+  library_dep_index: 101
+  library_dep_index: 97
+}
+library_dependencies {
+  library_index: 101
+  library_dep_index: 102
+}
+library_dependencies {
+  library_index: 102
+  library_dep_index: 8
+  library_dep_index: 62
+  library_dep_index: 71
+  library_dep_index: 95
+  library_dep_index: 97
+  library_dep_index: 0
+  library_dep_index: 2
+  library_dep_index: 75
+  library_dep_index: 95
+  library_dep_index: 99
+  library_dep_index: 103
+  library_dep_index: 106
+  library_dep_index: 97
+}
+library_dependencies {
+  library_index: 103
+  library_dep_index: 104
+}
+library_dependencies {
+  library_index: 104
+  library_dep_index: 8
+  library_dep_index: 60
+  library_dep_index: 71
+  library_dep_index: 73
+  library_dep_index: 99
+  library_dep_index: 101
+  library_dep_index: 97
+  library_dep_index: 59
+  library_dep_index: 105
+  library_dep_index: 0
+  library_dep_index: 2
+  library_dep_index: 14
+  library_dep_index: 75
+  library_dep_index: 95
+  library_dep_index: 99
+  library_dep_index: 106
+  library_dep_index: 101
+  library_dep_index: 97
+}
+library_dependencies {
+  library_index: 105
+  library_dep_index: 8
+  library_dep_index: 60
+  library_dep_index: 59
+  library_dep_index: 87
+  library_dep_index: 88
+}
+library_dependencies {
+  library_index: 106
+  library_dep_index: 107
+}
+library_dependencies {
+  library_index: 107
+  library_dep_index: 8
+  library_dep_index: 71
+  library_dep_index: 2
+  library_dep_index: 75
+  library_dep_index: 95
+  library_dep_index: 99
+  library_dep_index: 103
+  library_dep_index: 101
+  library_dep_index: 97
+}
+library_dependencies {
+  library_index: 108
+  library_dep_index: 58
+  library_dep_index: 0
+}
+library_dependencies {
+  library_index: 109
+  library_dep_index: 110
+}
+library_dependencies {
+  library_index: 110
+  library_dep_index: 8
+  library_dep_index: 60
+  library_dep_index: 111
+  library_dep_index: 115
+  library_dep_index: 71
+  library_dep_index: 75
+  library_dep_index: 103
+  library_dep_index: 97
+  library_dep_index: 59
+  library_dep_index: 105
+  library_dep_index: 2
+  library_dep_index: 115
+}
+library_dependencies {
+  library_index: 111
+  library_dep_index: 112
+}
+library_dependencies {
+  library_index: 112
+  library_dep_index: 8
+  library_dep_index: 113
+  library_dep_index: 115
+  library_dep_index: 71
+  library_dep_index: 75
+  library_dep_index: 95
+  library_dep_index: 97
+  library_dep_index: 2
+  library_dep_index: 113
+}
+library_dependencies {
+  library_index: 113
+  library_dep_index: 114
+}
+library_dependencies {
+  library_index: 114
+  library_dep_index: 8
+  library_dep_index: 60
+  library_dep_index: 71
+  library_dep_index: 75
+  library_dep_index: 101
+  library_dep_index: 97
+  library_dep_index: 0
+  library_dep_index: 2
+  library_dep_index: 14
+  library_dep_index: 111
+}
+library_dependencies {
+  library_index: 115
+  library_dep_index: 116
+}
+library_dependencies {
+  library_index: 116
+  library_dep_index: 8
+  library_dep_index: 113
+  library_dep_index: 71
+  library_dep_index: 75
+  library_dep_index: 97
+  library_dep_index: 59
+  library_dep_index: 2
+  library_dep_index: 109
+}
+library_dependencies {
+  library_index: 117
+  library_dep_index: 8
+  library_dep_index: 60
+}
+library_dependencies {
+  library_index: 118
+  library_dep_index: 109
+  library_dep_index: 119
+  library_dep_index: 125
+  library_dep_index: 71
+  library_dep_index: 73
+  library_dep_index: 75
+  library_dep_index: 99
+  library_dep_index: 106
+  library_dep_index: 111
+  library_dep_index: 115
+  library_dep_index: 110
+  library_dep_index: 120
+  library_dep_index: 126
+  library_dep_index: 72
+  library_dep_index: 74
+  library_dep_index: 76
+  library_dep_index: 100
+  library_dep_index: 107
+  library_dep_index: 112
+  library_dep_index: 116
+  library_dep_index: 103
+  library_dep_index: 97
+  library_dep_index: 121
+  library_dep_index: 113
+  library_dep_index: 123
+  library_dep_index: 95
+  library_dep_index: 101
+  library_dep_index: 104
+  library_dep_index: 98
+  library_dep_index: 122
+  library_dep_index: 124
+  library_dep_index: 114
+  library_dep_index: 96
+  library_dep_index: 102
+}
+library_dependencies {
+  library_index: 119
+  library_dep_index: 120
+}
+library_dependencies {
+  library_index: 120
+  library_dep_index: 121
+  library_dep_index: 71
+  library_dep_index: 2
+  library_dep_index: 121
+  library_dep_index: 123
+}
+library_dependencies {
+  library_index: 121
+  library_dep_index: 122
+}
+library_dependencies {
+  library_index: 122
+  library_dep_index: 75
+  library_dep_index: 0
+  library_dep_index: 2
+  library_dep_index: 119
+  library_dep_index: 123
+}
+library_dependencies {
+  library_index: 123
+  library_dep_index: 124
+}
+library_dependencies {
+  library_index: 124
+  library_dep_index: 111
+  library_dep_index: 109
+  library_dep_index: 71
+  library_dep_index: 97
+  library_dep_index: 2
+  library_dep_index: 121
+  library_dep_index: 119
+}
+library_dependencies {
+  library_index: 125
+  library_dep_index: 126
+}
+library_dependencies {
+  library_index: 126
+  library_dep_index: 93
+  library_dep_index: 8
+  library_dep_index: 6
+  library_dep_index: 60
+  library_dep_index: 113
+  library_dep_index: 109
+  library_dep_index: 115
+  library_dep_index: 121
+  library_dep_index: 123
+  library_dep_index: 71
+  library_dep_index: 99
+  library_dep_index: 103
+  library_dep_index: 97
+  library_dep_index: 69
+  library_dep_index: 67
+  library_dep_index: 79
+  library_dep_index: 91
+  library_dep_index: 2
+}
+library_dependencies {
+  library_index: 127
+  library_dep_index: 93
+  library_dep_index: 111
+  library_dep_index: 115
+  library_dep_index: 71
+  library_dep_index: 73
+  library_dep_index: 75
+  library_dep_index: 81
+  library_dep_index: 128
+  library_dep_index: 0
+  library_dep_index: 128
+  library_dep_index: 129
+  library_dep_index: 131
+  library_dep_index: 130
+}
+library_dependencies {
+  library_index: 128
+  library_dep_index: 129
+  library_dep_index: 131
+  library_dep_index: 129
+  library_dep_index: 127
+  library_dep_index: 131
+  library_dep_index: 130
+}
+library_dependencies {
+  library_index: 129
+  library_dep_index: 130
+  library_dep_index: 130
+  library_dep_index: 127
+  library_dep_index: 131
+  library_dep_index: 128
+}
+library_dependencies {
+  library_index: 130
+  library_dep_index: 8
+  library_dep_index: 62
+  library_dep_index: 58
+  library_dep_index: 68
+  library_dep_index: 80
+  library_dep_index: 82
+  library_dep_index: 83
+  library_dep_index: 92
+  library_dep_index: 91
+  library_dep_index: 0
+  library_dep_index: 129
+  library_dep_index: 127
+  library_dep_index: 131
+  library_dep_index: 128
+}
+library_dependencies {
+  library_index: 131
+  library_dep_index: 77
+  library_dep_index: 6
+  library_dep_index: 60
+  library_dep_index: 80
+  library_dep_index: 82
+  library_dep_index: 130
+  library_dep_index: 0
+  library_dep_index: 130
+  library_dep_index: 129
+  library_dep_index: 127
+  library_dep_index: 128
+}
+library_dependencies {
+  library_index: 132
+  library_dep_index: 133
+  library_dep_index: 135
+  library_dep_index: 136
+  library_dep_index: 137
+  library_dep_index: 78
+  library_dep_index: 8
+  library_dep_index: 138
+  library_dep_index: 68
+  library_dep_index: 79
+  library_dep_index: 83
+  library_dep_index: 90
+  library_dep_index: 134
+  library_dep_index: 0
+}
+library_dependencies {
+  library_index: 133
+  library_dep_index: 134
+}
+library_dependencies {
+  library_index: 136
+  library_dep_index: 133
+  library_dep_index: 137
+  library_dep_index: 134
+}
+library_dependencies {
+  library_index: 138
+  library_dep_index: 78
+  library_dep_index: 8
+  library_dep_index: 6
+  library_dep_index: 60
+  library_dep_index: 58
+  library_dep_index: 84
+  library_dep_index: 79
+  library_dep_index: 83
+  library_dep_index: 139
+  library_dep_index: 90
+  library_dep_index: 140
+  library_dep_index: 0
+}
+library_dependencies {
+  library_index: 139
+  library_dep_index: 8
+  library_dep_index: 59
+  library_dep_index: 85
+  library_dep_index: 79
+}
+library_dependencies {
+  library_index: 140
+  library_dep_index: 8
+  library_dep_index: 59
+  library_dep_index: 141
+}
+library_dependencies {
+  library_index: 141
+  library_dep_index: 8
+  library_dep_index: 59
+}
+library_dependencies {
+  library_index: 142
+  library_dep_index: 71
+  library_dep_index: 75
+  library_dep_index: 143
+  library_dep_index: 81
+  library_dep_index: 127
+  library_dep_index: 0
+}
+library_dependencies {
+  library_index: 143
+  library_dep_index: 8
+  library_dep_index: 131
+  library_dep_index: 132
+  library_dep_index: 0
+}
+library_dependencies {
+  library_index: 144
+  library_dep_index: 145
+  library_dep_index: 168
+  library_dep_index: 171
+}
+library_dependencies {
+  library_index: 145
+  library_dep_index: 146
+}
+library_dependencies {
+  library_index: 146
+  library_dep_index: 88
+  library_dep_index: 147
+  library_dep_index: 148
+  library_dep_index: 152
+  library_dep_index: 154
+  library_dep_index: 0
+  library_dep_index: 166
+}
+library_dependencies {
+  library_index: 147
+  library_dep_index: 8
+  library_dep_index: 60
+  library_dep_index: 63
+  library_dep_index: 59
+  library_dep_index: 66
+  library_dep_index: 64
+}
+library_dependencies {
+  library_index: 148
+  library_dep_index: 149
+}
+library_dependencies {
+  library_index: 149
+  library_dep_index: 88
+  library_dep_index: 150
+  library_dep_index: 0
+}
+library_dependencies {
+  library_index: 150
+  library_dep_index: 151
+}
+library_dependencies {
+  library_index: 151
+  library_dep_index: 0
+}
+library_dependencies {
+  library_index: 152
+  library_dep_index: 153
+}
+library_dependencies {
+  library_index: 153
+  library_dep_index: 0
+  library_dep_index: 150
+  library_dep_index: 14
+}
+library_dependencies {
+  library_index: 154
+  library_dep_index: 155
+}
+library_dependencies {
+  library_index: 155
+  library_dep_index: 87
+  library_dep_index: 45
+  library_dep_index: 14
+  library_dep_index: 156
+  library_dep_index: 26
+  library_dep_index: 52
+  library_dep_index: 54
+  library_dep_index: 164
+  library_dep_index: 0
+}
+library_dependencies {
+  library_index: 156
+  library_dep_index: 157
+}
+library_dependencies {
+  library_index: 157
+  library_dep_index: 4
+  library_dep_index: 158
+  library_dep_index: 160
+}
+library_dependencies {
+  library_index: 158
+  library_dep_index: 159
+}
+library_dependencies {
+  library_index: 159
+  library_dep_index: 4
+}
+library_dependencies {
+  library_index: 160
+  library_dep_index: 161
+  library_dep_index: 162
+}
+library_dependencies {
+  library_index: 161
+  library_dep_index: 0
+}
+library_dependencies {
+  library_index: 162
+  library_dep_index: 163
+}
+library_dependencies {
+  library_index: 164
+  library_dep_index: 165
+}
+library_dependencies {
+  library_index: 165
+  library_dep_index: 0
+}
+library_dependencies {
+  library_index: 166
+  library_dep_index: 167
+}
+library_dependencies {
+  library_index: 167
+  library_dep_index: 4
+}
+library_dependencies {
+  library_index: 168
+  library_dep_index: 169
+}
+library_dependencies {
+  library_index: 169
+  library_dep_index: 145
+  library_dep_index: 170
+  library_dep_index: 0
+}
+library_dependencies {
+  library_index: 170
+  library_dep_index: 0
+}
+library_dependencies {
+  library_index: 171
+  library_dep_index: 172
+}
+library_dependencies {
+  library_index: 172
+  library_dep_index: 145
+  library_dep_index: 173
+  library_dep_index: 0
+}
+library_dependencies {
+  library_index: 173
+  library_dep_index: 174
+}
+library_dependencies {
+  library_index: 174
+  library_dep_index: 3
+  library_dep_index: 4
+  library_dep_index: 17
+  library_dep_index: 21
+  library_dep_index: 14
+  library_dep_index: 26
+}
+library_dependencies {
+  library_index: 175
+  library_dep_index: 176
+}
+library_dependencies {
+  library_index: 176
+  library_dep_index: 3
+  library_dep_index: 4
+  library_dep_index: 17
+  library_dep_index: 21
+  library_dep_index: 26
+  library_dep_index: 14
+  library_dep_index: 2
+}
+library_dependencies {
+  library_index: 177
+  library_dep_index: 0
+  library_dep_index: 178
+  library_dep_index: 180
+}
+library_dependencies {
+  library_index: 178
+  library_dep_index: 0
+  library_dep_index: 14
+  library_dep_index: 8
+  library_dep_index: 179
+}
+library_dependencies {
+  library_index: 179
+  library_dep_index: 0
+  library_dep_index: 14
+  library_dep_index: 8
+}
+library_dependencies {
+  library_index: 180
+  library_dep_index: 0
+  library_dep_index: 179
+}
+library_dependencies {
+  library_index: 181
+  library_dep_index: 182
+  library_dep_index: 182
+}
+library_dependencies {
+  library_index: 182
+  library_dep_index: 6
+  library_dep_index: 59
+  library_dep_index: 85
+  library_dep_index: 86
+  library_dep_index: 12
+  library_dep_index: 23
+  library_dep_index: 88
+  library_dep_index: 64
+  library_dep_index: 0
+  library_dep_index: 13
+  library_dep_index: 181
+}
+library_dependencies {
+  library_index: 183
+  library_dep_index: 8
+  library_dep_index: 184
+  library_dep_index: 182
+  library_dep_index: 132
+}
+library_dependencies {
+  library_index: 184
+  library_dep_index: 136
+}
+library_dependencies {
+  library_index: 185
+  library_dep_index: 138
+  library_dep_index: 139
+  library_dep_index: 186
+  library_dep_index: 190
+  library_dep_index: 187
+  library_dep_index: 188
+  library_dep_index: 191
+  library_dep_index: 189
+}
+library_dependencies {
+  library_index: 186
+  library_dep_index: 187
+  library_dep_index: 188
+  library_dep_index: 189
+}
+library_dependencies {
+  library_index: 187
+  library_dep_index: 60
+  library_dep_index: 59
+  library_dep_index: 138
+  library_dep_index: 188
+  library_dep_index: 189
+}
+library_dependencies {
+  library_index: 188
+  library_dep_index: 60
+  library_dep_index: 59
+  library_dep_index: 138
+}
+library_dependencies {
+  library_index: 189
+  library_dep_index: 188
+}
+library_dependencies {
+  library_index: 190
+  library_dep_index: 60
+  library_dep_index: 187
+  library_dep_index: 188
+  library_dep_index: 189
+}
+library_dependencies {
+  library_index: 191
+  library_dep_index: 187
+  library_dep_index: 188
+  library_dep_index: 189
+}
+library_dependencies {
+  library_index: 192
+  library_dep_index: 8
+  library_dep_index: 0
+  library_dep_index: 14
+  library_dep_index: 193
+}
+library_dependencies {
+  library_index: 193
+  library_dep_index: 192
+  library_dep_index: 185
+  library_dep_index: 191
+  library_dep_index: 194
+  library_dep_index: 0
+  library_dep_index: 192
+}
+library_dependencies {
+  library_index: 194
+  library_dep_index: 192
+  library_dep_index: 0
+  library_dep_index: 4
+}
+library_dependencies {
+  library_index: 195
+  library_dep_index: 24
+  library_dep_index: 26
+  library_dep_index: 52
+  library_dep_index: 54
+  library_dep_index: 196
+  library_dep_index: 47
+  library_dep_index: 58
+  library_dep_index: 198
+  library_dep_index: 13
+  library_dep_index: 18
+  library_dep_index: 19
+  library_dep_index: 64
+  library_dep_index: 63
+  library_dep_index: 65
+  library_dep_index: 4
+}
+library_dependencies {
+  library_index: 196
+  library_dep_index: 197
+}
+library_dependencies {
+  library_index: 197
+  library_dep_index: 3
+  library_dep_index: 4
+  library_dep_index: 17
+  library_dep_index: 21
+  library_dep_index: 14
+  library_dep_index: 26
+  library_dep_index: 2
+}
+library_dependencies {
+  library_index: 198
+  library_dep_index: 21
+}
+module_dependencies {
+  module_name: "base"
+  dependency_index: 0
+  dependency_index: 58
+  dependency_index: 80
+  dependency_index: 93
+  dependency_index: 118
+  dependency_index: 75
+  dependency_index: 99
+  dependency_index: 106
+  dependency_index: 125
+  dependency_index: 119
+  dependency_index: 109
+  dependency_index: 127
+  dependency_index: 81
+  dependency_index: 70
+  dependency_index: 132
+  dependency_index: 142
+  dependency_index: 5
+  dependency_index: 12
+  dependency_index: 144
+  dependency_index: 168
+  dependency_index: 145
+  dependency_index: 171
+  dependency_index: 175
+  dependency_index: 26
+  dependency_index: 30
+  dependency_index: 47
+  dependency_index: 13
+  dependency_index: 177
+  dependency_index: 181
+  dependency_index: 183
+  dependency_index: 185
+  dependency_index: 192
+  dependency_index: 193
+  dependency_index: 194
+  dependency_index: 195
+  dependency_index: 45
+  dependency_index: 24
+  dependency_index: 14
+  dependency_index: 52
+  dependency_index: 54
+}
+repositories {
+  maven_repo {
+    url: "https://dl.google.com/dl/android/maven2/"
+  }
+}
+repositories {
+  maven_repo {
+    url: "https://repo.maven.apache.org/maven2/"
+  }
+}
