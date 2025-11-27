@@ -14,4 +14,7 @@
 .cxx
 local.properties
 .idea
+<<<<<<< HEAD
 gradle.properties
+=======
+>>>>>>> 36ec234 (initial commit)
